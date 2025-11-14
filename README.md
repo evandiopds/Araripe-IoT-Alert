@@ -1,6 +1,6 @@
 # Sistema de Alerta de Desmatamento (Projeto IoT)
 
-Este é o repositório do "Araripe IoT Alert", desenvolvido por alunos de Análise e Desenvolvimento de Sistemas da UniFAP. O objetivo é um sistema de monitoramento e alerta de desmatamento em tempo real para a região da Chapada do Araripe.
+Este é o repositório do "Araripe IoT Alert", desenvolvido por alunos de Análise e Desenvolvimento de Sistemas da UniFAP para a disciplina de Projeto Integrador: IoT. O objetivo é um sistema de monitoramento e alerta de desmatamento em tempo real para a região da Chapada do Araripe.
 
 ---
 
